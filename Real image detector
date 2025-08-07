@@ -1,0 +1,9 @@
+real_ai_image_detector/
+├── app.py
+├── requirements.txt
+├── README.md  (optional)
+├── model/
+│   └── detector_model.h5 ✅
+├── utils/
+│   └── predict.py
+└── images/
